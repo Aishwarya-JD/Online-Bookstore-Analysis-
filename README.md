@@ -18,18 +18,6 @@ Using relational database concepts, joins, aggregations, and business-focused SQ
 
 ---
 
-## 📑 Table of Contents
-
-- #-business-objective
-- #-database-schema
-- #-tools-used
-- #-analysis-performed
-- [Keyy-insights
-- [-project-structure
-- [Acknowledgements](#-acknowor
-
----
-
 ## 🎯 Business Objective
 
 The project aims to answer important business questions such as:
