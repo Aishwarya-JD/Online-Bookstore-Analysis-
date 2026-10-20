@@ -165,11 +165,13 @@ Special thanks to Satish Dhawale for his guidance and educational content on SQL
 
 ---
 
-## 👩‍💻 Author
+**👩‍💻 About:**
 
-### Aishwarya Jayant Dixit
+**Aishwarya Jayant Dixit**
 
-Aspiring Data Analyst passionate about transforming raw data into actionable business insights through SQL, analytics, and visualization.
+**Aspiring Data Analyst | Excel | SQL | Power BI | Python**
+
+I am building practical analytics projects to strengthen my skills in querying data, analysing business questions, and communicating findings. 
 
 ### 🔗 Connect With Me
 
